@@ -1,0 +1,1269 @@
+2015-09-28,2015-10-31,0,Fracture of bone
+2015-09-28,2015-10-31,0,Closed fracture of hip
+2016-04-10,2016-04-24,0,Gingivitis
+2000-06-30,2000-07-10,1,Acute viral pharyngitis
+2002-09-19,2002-09-28,1,Viral sinusitis
+2003-05-06,2003-05-28,1,Viral sinusitis
+2005-11-01,No Stop Date,1,Anemia
+2008-08-12,2008-08-27,1,Gingivitis
+2020-10-30,2020-11-20,0,Sprain of ankle
+2021-10-13,2021-10-20,0,Acute viral pharyngitis
+2022-04-17,2022-05-01,0,Gingivitis
+2008-08-26,2008-08-27,1,Gingival disease
+2008-10-06,2008-10-23,1,Viral sinusitis
+2009-12-11,No Stop Date,1,Gunshot wound
+2009-12-11,No Stop Date,1,Bullet wound
+2015-09-14,2015-10-29,2,Traumatic dislocation of temporomandibular joint
+2015-09-27,2015-09-27,2,Infection of tooth
+2015-09-27,2015-09-28,2,Gingival disease
+2015-10-03,2015-10-03,2,Alveolitis of jaw
+2020-02-16,2020-02-29,2,Viral sinusitis
+2021-01-10,2021-01-25,2,Gingivitis
+2021-01-24,2021-01-24,2,Gingival disease
+2022-01-16,2022-01-30,2,Gingivitis
+2022-01-30,2022-01-30,2,Primary dental caries
+2008-03-01,No Stop Date,3,Chronic intractable migraine without aura
+2008-04-14,No Stop Date,3,Impacted molars
+2016-04-01,2016-04-15,3,Gingivitis
+2017-08-19,2017-09-05,3,Laceration - injury
+2017-08-19,2017-09-05,3,Facial laceration
+2018-04-12,2018-04-13,3,Acute infective cystitis
+2020-03-24,No Stop Date,3,Dependent drug abuse
+2019-10-25,2020-01-04,4,Otitis media
+2021-07-13,2021-08-01,5,Viral sinusitis
+2020-01-11,2020-02-06,4,Viral sinusitis
+2020-06-02,2020-07-04,4,Otitis media
+2022-01-08,2022-01-08,4,Primary dental caries
+2022-07-03,2022-07-18,4,Laceration - injury
+2022-07-03,2022-07-18,4,Laceration of forearm
+2023-04-27,2023-05-09,4,Viral sinusitis
+2021-09-04,2021-09-18,5,Otitis media
+2022-04-04,2022-04-17,5,Streptococcal sore throat
+2022-06-02,2022-06-23,5,Viral sinusitis
+2024-08-20,2024-09-01,5,Viral sinusitis
+2014-05-29,No Stop Date,6,Atopic dermatitis
+2015-07-25,2015-08-19,6,Viral sinusitis
+2016-09-14,No Stop Date,6,Perennial allergic rhinitis
+2012-08-21,No Stop Date,7,Anemia
+2016-08-30,2016-09-13,7,Gingivitis
+2016-09-13,2016-09-13,7,Primary dental caries
+2017-06-15,No Stop Date,7,Inflammatory disorder due to increased blood urate level
+2018-01-11,2018-01-25,7,Streptococcal sore throat
+2019-04-02,2019-04-15,7,Acute bronchitis
+2020-01-11,2020-01-23,7,Acute bronchitis
+2017-01-21,2017-01-21,6,Primary dental caries
+2017-08-16,2017-08-26,6,Viral sinusitis
+2021-08-07,2021-08-14,6,Gingivitis
+2022-04-16,2022-04-28,6,Streptococcal sore throat
+2023-08-26,2023-08-26,6,Primary dental caries
+2023-08-14,2024-10-08,7,Polyp of colon
+2023-09-05,2023-09-19,7,Gingivitis
+2024-09-10,2024-09-24,7,Gingivitis
+2014-09-21,2014-11-26,8,Fracture of bone
+2014-09-21,2014-11-26,8,Fracture of ankle
+2015-02-27,2015-03-06,8,Acute bronchitis
+2015-03-08,2015-03-15,8,Gingivitis
+2016-07-10,2016-07-17,8,Gingivitis
+2016-09-04,2016-09-17,8,Acute viral pharyngitis
+2019-04-04,2019-04-25,8,Viral sinusitis
+2021-01-12,2021-02-16,8,Disease caused by severe acute respiratory syndrome coronavirus 2
+2023-04-25,2023-04-25,8,Acute infective cystitis
+1961-07-14,No Stop Date,9,Loss of teeth
+1972-05-26,No Stop Date,9,Anemia
+1985-08-16,No Stop Date,9,Essential hypertension
+1986-08-22,No Stop Date,9,Metabolic syndrome X
+1996-10-18,No Stop Date,9,Ischemic heart disease
+2003-06-06,No Stop Date,9,Pulmonary emphysema
+2014-11-27,2014-12-09,9,Viral sinusitis
+2015-04-22,2015-05-08,9,Acute bronchitis
+2016-02-05,2016-02-19,9,Gingivitis
+2016-08-20,2016-08-21,9,Acute infective cystitis
+2017-10-22,2017-10-30,9,Acute viral pharyngitis
+2020-03-13,2020-03-13,9,Gingival disease
+2020-03-13,2020-03-13,9,Primary dental caries
+2022-03-25,2022-03-25,9,Gingival disease
+2023-12-31,2024-01-23,9,Viral sinusitis
+2016-06-18,2016-07-10,10,Laceration - injury
+2016-06-18,2016-07-10,10,Laceration of forearm
+2017-05-08,2017-05-31,10,Laceration - injury
+2017-05-08,2017-05-31,10,Laceration of hand
+2017-08-06,2017-08-06,10,Gingival disease
+2019-07-11,2019-07-21,10,Viral sinusitis
+2020-05-17,2020-05-17,10,Gingival disease
+2022-05-08,2022-05-22,10,Gingivitis
+2022-05-22,2022-05-22,10,Gingival disease
+2023-12-03,2023-12-17,10,Gingivitis
+2023-12-10,2023-12-24,10,Acute viral pharyngitis
+2023-12-17,2023-12-17,10,Infection of tooth
+2024-03-17,2024-05-05,10,Pre-eclampsia
+2024-05-12,2024-05-26,10,Gingivitis
+2000-02-11,No Stop Date,11,Essential hypertension
+2015-05-09,2015-05-23,11,Gingivitis
+2015-05-23,2015-05-23,11,Gingival disease
+2018-07-19,2018-08-02,11,Acute viral pharyngitis
+2022-08-15,2022-08-23,11,Acute viral pharyngitis
+2023-07-08,2023-07-08,11,Gingival disease
+2023-08-30,2023-09-12,11,Viral sinusitis
+2024-06-29,2024-07-13,11,Gingivitis
+2024-07-13,2024-07-13,11,Gingival disease
+1998-02-25,No Stop Date,12,Essential hypertension
+1999-02-10,No Stop Date,12,Disorder of kidney due to diabetes mellitus
+2001-11-28,No Stop Date,12,Microalbuminuria due to type 2 diabetes mellitus
+2004-05-12,No Stop Date,12,Proteinuria due to type 2 diabetes mellitus
+2007-03-21,No Stop Date,12,Anemia
+2018-01-31,No Stop Date,12,Osteoarthritis of knee
+2018-07-11,No Stop Date,12,Hyperlipidemia
+2019-07-17,2019-07-31,12,Gingivitis
+2019-07-31,2019-07-31,12,Gingival disease
+2020-07-22,No Stop Date,12,Chronic kidney disease stage 1
+2021-08-18,2021-08-18,12,Infection of tooth
+2021-08-25,No Stop Date,12,Loss of teeth
+2021-08-25,2021-09-12,12,Torus palatinus
+2023-08-30,2023-12-20,12,Gingivitis
+2023-09-13,No Stop Date,12,Metabolic syndrome X
+2023-12-20,2024-01-06,12,Acute bronchitis
+2024-01-03,No Stop Date,12,Chronic kidney disease stage 2
+2024-02-14,2024-02-14,12,Gingival disease
+2018-11-09,2018-11-23,13,Gingivitis
+2020-12-05,2021-01-06,13,Disease caused by severe acute respiratory syndrome coronavirus 2
+2021-10-28,2021-11-10,13,Acute viral pharyngitis
+1980-07-10,No Stop Date,14,Recurrent urinary tract infection
+1999-07-06,No Stop Date,14,Sepsis
+2008-11-01,No Stop Date,14,Chronic sinusitis
+2011-03-03,No Stop Date,14,Sleep disorder
+2011-03-27,No Stop Date,14,Obstructive sleep apnea syndrome
+2015-03-21,2015-04-04,14,Gingivitis
+2015-04-04,2015-04-04,14,Infection of tooth
+2018-04-07,2018-04-21,14,Gingivitis
+2018-04-21,2018-04-21,14,Gingival disease
+2018-11-07,2018-11-16,14,Acute viral pharyngitis
+2020-05-02,2020-05-02,14,Gingival disease
+2022-04-30,No Stop Date,14,Hyperlipidemia
+2024-05-11,2024-05-25,14,Gingivitis
+2016-10-18,2016-11-01,15,Gingivitis
+2017-05-30,2017-06-20,15,Eclampsia in pregnancy
+2018-10-30,2018-11-09,15,Miscarriage in second trimester
+2018-10-30,2018-11-09,15,Fetus with chromosomal abnormality
+2020-01-28,2020-02-15,15,Miscarriage in first trimester
+2020-01-28,2020-02-15,15,Blighted ovum
+2022-08-25,2022-09-05,15,Viral sinusitis
+2022-10-11,2022-11-29,15,Pre-eclampsia
+2015-12-07,2015-12-18,16,Acute bronchitis
+2015-12-17,No Stop Date,16,Diabetes mellitus type 2
+2015-12-24,No Stop Date,16,Hyperglycemia
+2015-12-24,No Stop Date,16,Hypertriglyceridemia
+2015-12-24,No Stop Date,16,Metabolic syndrome X
+2015-12-24,No Stop Date,16,Anemia
+2015-12-31,2015-12-31,16,Primary dental caries
+2016-12-29,No Stop Date,16,Essential hypertension
+2016-12-29,No Stop Date,16,Retinopathy due to type 2 diabetes mellitus
+2018-01-04,2018-01-18,16,Gingivitis
+2018-11-23,2018-12-05,16,Acute viral pharyngitis
+2020-01-16,2020-01-30,16,Gingivitis
+2021-01-21,2021-02-04,16,Gingivitis
+2023-02-09,2023-02-09,16,Infection of tooth
+2023-02-14,2023-02-14,16,Alveolitis of jaw
+2023-02-16,No Stop Date,16,Loss of teeth
+2023-02-23,2023-03-10,16,Viral sinusitis
+2017-08-11,2017-10-24,17,Concussion injury of brain
+2017-08-11,2017-10-24,17,Concussion with no loss of consciousness
+2018-10-21,2019-08-04,17,Otitis media
+2020-05-31,2020-06-24,17,Viral sinusitis
+2021-08-15,2021-08-22,17,Gingivitis
+2024-09-01,2024-09-08,17,Gingivitis
+2017-06-24,2017-07-09,18,Viral sinusitis
+2018-05-18,2018-05-18,18,Gingival disease
+2021-10-15,2021-10-29,18,Gingivitis
+2021-10-22,2021-11-04,18,Acute viral pharyngitis
+2021-11-09,2022-02-06,18,Concussion injury of brain
+2021-11-09,2022-02-06,18,Concussion with no loss of consciousness
+2017-02-08,2017-05-27,19,Fracture of bone
+2017-02-08,2017-05-27,19,Fracture of forearm
+2018-11-06,2018-11-19,19,Acute viral pharyngitis
+2020-11-12,2020-11-26,19,Gingivitis
+2022-08-05,2022-10-08,19,Acute bacterial sinusitis
+2023-07-29,2023-08-06,19,Acute viral pharyngitis
+2023-09-21,2023-09-30,19,Acute viral pharyngitis
+2024-09-05,2024-09-23,19,Viral sinusitis
+2016-06-22,2016-07-06,20,Acute bronchitis
+2019-10-03,2019-12-08,20,Otitis media
+2019-11-10,No Stop Date,20,Perennial allergic rhinitis
+2024-04-13,2024-04-25,20,Streptococcal sore throat
+1931-07-25,No Stop Date,21,Recurrent urinary tract infection
+1941-10-24,No Stop Date,21,Chronic sinusitis
+1979-05-29,No Stop Date,21,Ischemic heart disease
+1981-09-07,No Stop Date,21,Acute ST segment elevation myocardial infarction
+1999-03-20,No Stop Date,21,Mitral valve regurgitation
+2004-10-19,No Stop Date,21,Osteoporosis
+2015-12-22,2016-01-05,21,Gingivitis
+2016-01-05,2016-01-05,21,Gingival disease
+2016-08-19,2016-08-27,21,Acute viral pharyngitis
+2020-01-14,2020-01-28,21,Gingivitis
+2020-07-06,2020-08-22,21,Fracture of bone
+2020-07-06,2020-08-22,21,Fracture of forearm
+2020-07-06,2020-08-22,21,Osteoporotic fracture of bone
+2021-05-08,2021-05-17,21,Acute viral pharyngitis
+2021-05-28,2021-06-14,21,Acute bronchitis
+2021-10-15,2021-11-11,21,Injury of neck
+2021-10-15,2021-11-11,21,Whiplash injury to neck
+2022-10-13,2022-10-23,21,Acute viral pharyngitis
+2024-02-06,2024-02-20,21,Gingivitis
+2024-02-20,2024-02-20,21,Infection of tooth
+2024-02-20,2024-02-20,21,Primary dental caries
+2015-08-03,2015-08-03,22,Gingival disease
+2017-04-06,2017-05-22,22,Injury of neck
+2017-04-06,2017-05-22,22,Whiplash injury to neck
+2017-07-31,No Stop Date,22,Neoplasm of prostate
+2017-07-31,No Stop Date,22,Carcinoma in situ of prostate
+2018-01-31,2018-02-10,22,Acute viral pharyngitis
+2018-08-06,2018-08-20,22,Gingivitis
+2019-08-12,No Stop Date,22,Essential hypertension
+2019-08-12,2019-08-26,22,Gingivitis
+2019-08-26,2019-08-26,22,Gingival disease
+2022-02-16,2022-04-14,22,Fracture of bone
+2022-02-16,2022-04-14,22,Fracture of clavicle
+2022-10-25,2022-11-16,22,Viral sinusitis
+2024-02-12,2024-05-29,22,Fracture of bone
+2024-02-12,2024-05-29,22,Fracture of ankle
+2024-09-09,No Stop Date,22,Ischemic heart disease
+2024-09-09,2024-09-30,22,Gingivitis
+2014-10-05,2015-02-21,23,Otitis media
+2015-02-28,2015-02-28,23,Primary dental caries
+2015-06-10,2015-07-11,23,Fracture of bone
+2015-06-10,2015-07-11,23,Fracture of forearm
+2016-06-06,2016-07-14,23,Fracture of bone
+2016-06-06,2016-07-14,23,Fracture of ankle
+2018-11-21,2018-12-05,23,Viral sinusitis
+2024-10-05,2024-10-19,23,Gingivitis
+2024-10-19,2024-10-19,23,Infection of tooth
+2014-03-05,No Stop Date,24,Seasonal allergic rhinitis
+2016-06-26,2016-07-10,24,Viral sinusitis
+2016-10-01,2016-10-09,24,Gingivitis
+2016-10-08,2016-10-09,24,Gingival disease
+2017-07-11,2017-10-26,24,Sinusitis
+2017-12-08,2017-12-28,24,Sprain of wrist
+2019-10-19,2019-10-26,24,Gingivitis
+2019-12-05,2020-01-31,24,Fracture of bone
+2019-12-05,2020-01-31,24,Closed fracture of hip
+2021-10-30,2021-11-13,24,Gingivitis
+2022-11-20,2022-11-20,24,Primary dental caries
+2023-05-24,2023-05-24,24,Acute allergic reaction
+2024-07-26,2024-07-26,24,Acute allergic reaction
+1979-07-25,No Stop Date,25,Major depressive disorder
+1983-12-14,No Stop Date,25,Anemia
+2000-07-17,No Stop Date,25,Sepsis
+2006-06-28,No Stop Date,25,Essential hypertension
+2006-06-28,No Stop Date,25,Metabolic syndrome X
+2010-07-21,No Stop Date,25,Opioid abuse
+2010-07-21,No Stop Date,25,Alcoholism
+2014-09-03,No Stop Date,25,Loss of teeth
+2017-08-30,2017-09-14,25,Gingivitis
+2020-09-16,2020-10-01,25,Gingivitis
+2020-10-01,2020-10-01,25,Primary dental caries
+2022-06-01,2022-06-16,25,Gingivitis
+2022-06-08,2022-06-30,25,Viral sinusitis
+2022-06-16,2022-06-16,25,Gingival disease
+2024-10-09,2024-10-24,25,Gingivitis
+2015-08-25,2015-09-04,26,Acute viral pharyngitis
+2019-03-15,2019-03-29,26,Gingivitis
+2020-06-12,2020-07-02,26,Acute bronchitis
+2021-03-27,2021-04-09,26,Gingivitis
+2021-10-07,2021-10-16,26,Acute viral pharyngitis
+2022-04-01,2022-04-15,26,Gingivitis
+2024-04-12,2024-04-27,26,Gingivitis
+2024-04-26,2024-04-27,26,Gingival disease
+2024-04-27,2024-04-27,26,Primary dental caries
+2024-07-11,2024-07-18,26,Acute bronchitis
+1985-07-05,No Stop Date,27,Hyperlipidemia
+2012-10-26,No Stop Date,27,Diabetes mellitus type 2
+2012-10-26,No Stop Date,27,Ischemic heart disease
+2013-11-01,No Stop Date,27,Hypertriglyceridemia
+2013-11-01,No Stop Date,27,Metabolic syndrome X
+2013-11-01,No Stop Date,27,Retinopathy due to type 2 diabetes mellitus
+2014-11-07,No Stop Date,27,Nonproliferative retinopathy due to type 2 diabetes mellitus
+2017-01-27,2017-03-04,27,Fracture of bone
+2017-01-27,2017-03-04,27,Fracture of ankle
+2019-12-06,No Stop Date,27,Osteoporosis
+2021-12-17,No Stop Date,27,Neuropathy due to type 2 diabetes mellitus
+2021-12-31,2021-12-31,27,Gingival disease
+2018-08-31,2018-09-14,28,Gingivitis
+2019-04-20,2019-04-20,28,Pyelonephritis
+2022-09-09,2022-09-23,28,Gingivitis
+2022-09-23,2022-09-23,28,Primary dental caries
+2015-04-29,2015-05-17,29,Acute bronchitis
+2016-02-22,2016-02-29,29,Gingivitis
+2016-12-31,2017-01-15,29,Viral sinusitis
+2018-03-05,2018-03-19,29,Gingivitis
+2020-03-16,2020-03-30,29,Gingivitis
+2020-03-30,2020-03-30,29,Primary dental caries
+2021-04-05,2021-04-05,29,Primary dental caries
+2023-02-27,2023-04-24,29,Concussion injury of brain
+2023-02-27,2023-04-24,29,Concussion with no loss of consciousness
+2023-04-03,2023-04-17,29,Gingivitis
+2023-04-17,2023-04-17,29,Gingival disease
+2024-03-31,2024-04-03,29,Acute infective cystitis
+2024-04-08,No Stop Date,29,Essential hypertension
+2024-05-26,2024-06-05,29,Streptococcal sore throat
+2024-06-03,2024-06-17,29,Gingivitis
+2016-05-13,2016-05-30,30,Viral sinusitis
+2017-04-05,No Stop Date,30,Osteoarthritis of knee
+2017-04-26,2017-05-08,30,Acute bronchitis
+2017-06-29,2017-07-13,30,Gingivitis
+2017-07-13,2017-07-13,30,Gingival disease
+2018-07-05,2018-07-19,30,Gingivitis
+2019-07-25,2019-07-25,30,Gingival disease
+2022-07-28,2022-08-11,30,Gingivitis
+2024-08-08,No Stop Date,30,Essential hypertension
+1984-02-01,No Stop Date,31,Anemia
+1987-02-18,No Stop Date,31,Essential hypertension
+2007-06-13,No Stop Date,31,Diabetes mellitus type 2
+2008-06-18,No Stop Date,31,Hypertriglyceridemia
+2008-06-18,No Stop Date,31,Metabolic syndrome X
+2008-11-12,No Stop Date,31,Chronic kidney disease stage 1
+2008-11-12,No Stop Date,31,Disorder of kidney due to diabetes mellitus
+2013-02-20,No Stop Date,31,Chronic kidney disease stage 2
+2013-02-20,No Stop Date,31,Microalbuminuria due to type 2 diabetes mellitus
+2014-03-12,No Stop Date,31,Ischemic heart disease
+2015-04-08,2015-04-22,31,Gingivitis
+2015-04-22,2015-04-22,31,Infection of tooth
+2015-04-29,No Stop Date,31,Loss of teeth
+2015-05-13,2015-05-27,31,Gingivitis
+2015-05-27,2015-05-27,31,Primary dental caries
+2015-11-04,2015-11-18,31,Gingivitis
+2015-11-18,2015-11-18,31,Gingival disease
+2015-11-18,2015-11-18,31,Primary dental caries
+2016-01-20,2016-01-20,31,Infection of tooth
+2016-01-20,2016-01-20,31,Primary dental caries
+2016-01-25,2016-01-25,31,Alveolitis of jaw
+2017-02-22,2017-03-29,31,Sinusitis
+2017-03-15,2017-04-05,31,Gingivitis
+2017-04-26,2017-05-10,31,Gingivitis
+2017-05-24,2017-06-07,31,Gingivitis
+2018-01-25,2018-02-01,32,Gingivitis
+2018-02-01,2018-02-01,32,Primary dental caries
+2019-01-31,2019-02-07,32,Gingivitis
+2017-11-22,2017-12-06,31,Gingivitis
+2022-02-17,2022-03-03,32,Gingivitis
+2018-03-21,2018-04-04,31,Gingivitis
+2018-04-04,2018-04-04,31,Gingival disease
+2018-04-17,No Stop Date,31,Polyp of colon
+2019-02-13,2019-02-27,31,Gingivitis
+2019-05-15,2019-05-25,31,Acute viral pharyngitis
+2019-08-07,No Stop Date,31,Recurrent rectal polyp
+2019-08-13,2021-02-05,31,Overlapping malignant neoplasm of colon
+2019-08-21,2019-10-16,31,Acute bacterial sinusitis
+2019-11-13,No Stop Date,31,Sleep disorder
+2019-12-11,2019-12-11,31,Infection of tooth
+2019-12-31,No Stop Date,31,Obstructive sleep apnea syndrome
+2020-04-15,2020-04-29,31,Gingivitis
+2020-09-09,2020-09-23,31,Gingivitis
+2020-12-09,2020-12-23,31,Gingivitis
+2021-04-07,2021-04-21,31,Gingivitis
+2021-06-15,2021-06-28,31,Acute viral pharyngitis
+2021-06-23,2021-07-14,31,Gingivitis
+2021-08-04,2021-08-18,31,Gingivitis
+2021-09-15,2021-09-22,31,Gingivitis
+2021-09-22,2021-09-22,31,Gingival disease
+2021-11-03,2021-11-17,31,Gingivitis
+2021-12-01,2021-12-15,31,Gingivitis
+2022-05-04,2022-05-18,31,Gingivitis
+2022-05-18,2022-05-18,31,Primary dental caries
+2022-08-31,2022-09-14,31,Gingivitis
+2022-09-14,2022-09-14,31,Gingival disease
+2022-09-28,2022-10-12,31,Gingivitis
+2022-11-30,2022-12-14,31,Gingivitis
+2022-12-14,2022-12-14,31,Gingival disease
+2023-02-22,2023-03-08,31,Gingivitis
+2023-03-08,2023-03-08,31,Infection of tooth
+2023-03-08,2023-03-08,31,Gingival disease
+2023-04-19,2023-08-05,31,Fracture of bone
+2023-04-19,2023-08-05,31,Fracture of clavicle
+2023-09-20,2023-10-11,31,Gingivitis
+2024-03-20,2024-04-03,31,Gingivitis
+2010-08-25,No Stop Date,33,Atopic dermatitis
+2015-01-24,2015-01-31,33,Streptococcal sore throat
+2015-09-26,No Stop Date,33,Perennial allergic rhinitis
+2016-02-26,2016-03-11,33,Otitis media
+2016-03-24,2016-04-11,33,Viral sinusitis
+2016-05-10,2016-07-21,33,Otitis media
+2016-10-24,2016-11-02,33,Streptococcal sore throat
+2020-08-13,2020-08-20,33,Gingivitis
+2021-02-09,2021-02-21,33,Acute bronchitis
+2021-02-25,2021-03-04,33,Gingivitis
+2021-03-04,2021-03-04,33,Primary dental caries
+2021-05-06,2021-05-17,33,Viral sinusitis
+2023-06-01,2023-06-11,33,Acute viral pharyngitis
+2023-06-08,2023-06-22,33,Gingivitis
+2023-08-31,2023-09-14,33,Gingivitis
+2024-03-10,2024-03-28,33,Acute bronchitis
+2024-09-05,2024-09-19,33,Gingivitis
+2024-09-19,2024-09-19,33,Gingival disease
+2018-04-10,2018-07-04,34,Otitis media
+2020-12-29,2021-01-08,34,Acute viral pharyngitis
+2022-07-27,2022-08-03,34,Gingivitis
+2023-06-25,2023-09-01,34,Concussion injury of brain
+2023-06-25,2023-09-01,34,Concussion with no loss of consciousness
+2023-08-02,2023-08-09,34,Gingivitis
+2024-08-07,2024-08-14,34,Gingivitis
+1988-12-20,No Stop Date,35,Chronic sinusitis
+2008-07-12,No Stop Date,35,Essential hypertension
+2016-08-14,2016-08-21,35,Viral sinusitis
+2019-09-14,No Stop Date,35,Anemia
+2022-02-03,2022-02-13,35,Streptococcal sore throat
+2022-12-22,2023-01-28,35,Sprain of ankle
+1989-08-14,No Stop Date,36,Anemia
+2000-10-16,No Stop Date,36,Essential hypertension
+2000-10-16,No Stop Date,36,Metabolic syndrome X
+2000-10-16,No Stop Date,36,Ischemic heart disease
+2010-10-14,No Stop Date,36,Osteoarthritis of hip
+2015-01-19,2015-01-19,36,Gingival disease
+2017-08-10,2017-08-10,36,Rupture of appendix
+2017-08-10,2017-08-10,36,Appendicitis
+2018-01-22,2018-02-05,36,Gingivitis
+2019-01-28,2019-02-11,36,Gingivitis
+2020-03-20,2021-04-02,36,Polyp of colon
+2021-02-08,2021-02-22,36,Gingivitis
+2021-02-22,2021-02-22,36,Gingival disease
+2023-11-23,2024-01-17,36,Fracture of bone
+2023-11-23,2024-01-17,36,Fracture of rib
+1993-04-29,No Stop Date,37,Impacted molars
+1995-02-24,No Stop Date,37,Chronic intractable migraine without aura
+2006-02-20,No Stop Date,37,Dependent drug abuse
+2012-01-05,No Stop Date,37,Essential hypertension
+2013-08-08,No Stop Date,37,Chronic kidney disease stage 1
+2013-08-08,No Stop Date,37,Disorder of kidney due to diabetes mellitus
+2015-04-02,2015-04-16,37,Gingivitis
+2015-05-28,2015-06-11,37,Gingivitis
+2016-01-28,2016-02-11,37,Gingivitis
+2016-08-25,2016-09-15,37,Gingivitis
+2016-12-22,2017-01-05,37,Gingivitis
+2018-03-15,2018-03-29,37,Gingivitis
+2018-03-29,2018-03-29,37,Primary dental caries
+2018-04-12,2018-04-26,37,Gingivitis
+2018-04-26,2018-04-26,37,Gingival disease
+2018-06-21,2018-07-05,37,Gingivitis
+2018-07-19,2018-08-02,37,Gingivitis
+2018-08-02,2018-08-02,37,Gingival disease
+2018-09-13,2018-09-27,37,Gingivitis
+2018-09-27,2018-09-27,37,Primary dental caries
+2019-02-07,2019-02-28,37,Gingivitis
+2019-06-06,2019-06-20,37,Gingivitis
+2019-06-20,2019-06-20,37,Primary dental caries
+2019-08-08,2019-08-22,37,Gingivitis
+2019-08-22,2019-08-22,37,Gingival disease
+2019-10-03,2019-10-17,37,Gingivitis
+2019-10-17,2019-10-17,37,Gingival disease
+2020-07-30,2020-08-13,37,Gingivitis
+2020-08-13,2020-08-13,37,Gingival disease
+2021-04-29,2021-05-13,37,Gingivitis
+2021-08-12,2021-10-21,37,Gingivitis
+2021-10-21,2021-10-21,37,Gingival disease
+2021-11-04,2021-11-28,37,Viral sinusitis
+2021-12-09,2021-12-09,37,Primary dental caries
+2022-03-10,2022-03-17,37,Gingivitis
+2022-03-17,2022-03-17,37,Infection of tooth
+2022-05-26,2022-06-11,37,Acute infective cystitis
+2022-08-18,2022-09-01,37,Gingivitis
+2022-09-01,2022-09-01,37,Gingival disease
+2022-09-22,2022-10-06,37,Gingivitis
+2023-07-20,2023-08-03,37,Gingivitis
+2023-08-17,2023-08-31,37,Gingivitis
+2024-01-11,2024-01-25,37,Gingivitis
+2024-04-11,No Stop Date,37,Chronic kidney disease stage 2
+2024-04-11,No Stop Date,37,Microalbuminuria due to type 2 diabetes mellitus
+2024-05-09,2024-05-23,37,Gingivitis
+2024-05-23,2024-05-23,37,Infection of tooth
+2024-05-30,No Stop Date,37,Loss of teeth
+2024-07-11,2024-07-25,37,Gingivitis
+2024-08-08,2024-08-29,37,Gingivitis
+2024-09-12,2024-09-26,37,Gingivitis
+1963-09-03,No Stop Date,38,Chronic sinusitis
+2001-11-14,No Stop Date,38,Hyperlipidemia
+2002-05-15,No Stop Date,38,Ischemic heart disease
+2007-11-07,No Stop Date,38,Diabetes mellitus type 2
+2008-08-15,2008-12-23,38,Sinusitis
+2008-11-12,No Stop Date,38,Hypertriglyceridemia
+2008-11-12,No Stop Date,38,Metabolic syndrome X
+2008-11-12,No Stop Date,38,Anemia
+2009-06-13,No Stop Date,38,Osteoarthritis of knee
+2009-12-11,2010-01-20,38,Sprain of ankle
+2011-06-17,2011-07-04,38,Viral sinusitis
+2011-11-30,No Stop Date,38,Neuropathy due to type 2 diabetes mellitus
+2013-05-01,2013-06-10,38,Acute bacterial sinusitis
+2014-03-12,2014-03-24,38,Streptococcal sore throat
+2015-11-25,2015-12-13,38,Acute bronchitis
+2017-06-02,2017-06-02,38,Cerebrovascular accident
+2015-01-26,2015-02-09,39,Gingivitis
+2020-03-15,2020-03-24,39,Acute viral pharyngitis
+2021-01-21,2021-01-30,39,Streptococcal sore throat
+2021-11-16,2021-12-16,39,Sprain of ankle
+2023-02-27,No Stop Date,39,Malignant neoplasm of breast
+2023-09-15,2023-09-23,39,Acute bronchitis
+2023-11-20,2023-12-04,39,Gingivitis
+2023-12-04,2023-12-04,39,Gingival disease
+2015-02-20,2015-03-06,40,Gingivitis
+2018-02-06,2018-03-02,40,Viral sinusitis
+2018-03-09,2018-03-23,40,Gingivitis
+2020-11-12,2020-12-13,40,Disease caused by severe acute respiratory syndrome coronavirus 2
+2022-04-15,2022-04-15,40,Primary dental caries
+2015-02-21,2015-03-05,41,Acute bronchitis
+2018-01-09,2018-01-19,41,Acute viral pharyngitis
+2018-07-28,2018-08-13,41,Laceration - injury
+2018-07-28,2018-08-13,41,Laceration of thigh
+2020-08-30,2020-09-06,41,Gingivitis
+2021-06-11,2021-06-25,41,Acute bronchitis
+1990-01-10,No Stop Date,42,Anemia
+2013-10-01,No Stop Date,42,Chronic sinusitis
+2014-12-19,2014-12-27,42,Acute viral pharyngitis
+2015-03-01,2015-03-15,42,Acute viral pharyngitis
+2016-12-28,2017-01-11,42,Gingivitis
+2021-06-20,2021-06-27,41,Gingivitis
+2021-06-27,2021-06-27,41,Gingival disease
+2021-11-03,2021-11-13,41,Acute viral pharyngitis
+2022-09-11,2022-09-18,41,Gingivitis
+2023-06-10,2023-10-03,41,Fracture of bone
+2023-06-10,2023-10-03,41,Fracture of ankle
+2018-01-17,2018-01-17,42,Primary dental caries
+2020-11-20,2020-12-10,42,Acute bronchitis
+2020-12-02,2020-12-16,42,Gingivitis
+2022-01-26,2022-02-09,42,Gingivitis
+2024-09-22,No Stop Date,42,Fracture of bone
+2024-09-22,No Stop Date,42,Fracture of forearm
+2008-05-23,No Stop Date,43,Osteoarthritis of knee
+2009-11-20,No Stop Date,43,Anemia
+2017-03-03,2017-03-17,43,Gingivitis
+2018-03-09,2018-03-23,43,Gingivitis
+2020-03-20,2020-04-03,43,Gingivitis
+2021-03-26,2021-04-09,43,Gingivitis
+2022-09-02,2023-11-01,43,Polyp of colon
+2023-04-07,No Stop Date,43,Essential hypertension
+2023-04-07,No Stop Date,43,Metabolic syndrome X
+2023-04-07,2023-04-21,43,Gingivitis
+2015-10-27,2016-02-14,44,Fracture of bone
+2015-10-27,2016-02-14,44,Closed fracture of hip
+2018-06-18,2018-07-01,44,Acute viral pharyngitis
+2018-11-12,2019-11-13,44,Otitis media
+2019-08-28,2019-09-09,44,Streptococcal sore throat
+2022-09-25,2022-10-08,44,Acute viral pharyngitis
+2023-09-24,2023-10-15,44,Viral sinusitis
+2016-03-17,2016-07-10,45,Otitis media
+2021-08-08,2021-08-15,45,Gingivitis
+2021-08-15,2021-08-15,45,Primary dental caries
+2021-08-28,2022-01-08,45,Sinusitis
+2021-10-09,No Stop Date,45,Chronic sinusitis
+2021-12-05,2021-12-12,45,Gingivitis
+2023-08-20,2023-08-27,45,Gingivitis
+2024-07-04,2024-07-04,45,Acute allergic reaction
+2024-08-25,2024-09-08,45,Gingivitis
+2016-09-18,2019-08-30,46,Otitis media
+2017-10-22,2017-11-17,46,Viral sinusitis
+2024-08-20,2024-09-09,46,Viral sinusitis
+1977-10-17,No Stop Date,47,Recurrent urinary tract infection
+2015-09-05,2015-09-20,47,Gingivitis
+2017-09-17,2017-10-01,47,Gingivitis
+2019-01-12,2019-02-01,47,Viral sinusitis
+2019-09-28,No Stop Date,47,Osteoporosis
+2020-08-19,2020-08-29,47,Acute bronchitis
+2021-08-31,2021-09-14,47,Acute bronchitis
+2021-10-24,2021-10-24,47,Infection of tooth
+2022-06-22,2022-07-16,47,Viral sinusitis
+2008-12-20,2023-09-05,48,Chronic sinusitis
+2017-08-22,2017-08-30,48,Viral sinusitis
+2020-07-19,2020-08-02,48,Disease caused by severe acute respiratory syndrome coronavirus 2
+2023-08-08,2023-09-05,48,Sinusitis
+2014-12-03,2014-12-03,49,Infection of tooth
+2014-12-10,No Stop Date,49,Loss of teeth
+2015-12-02,2015-12-09,49,Gingivitis
+2017-01-18,2017-02-06,49,Acute bronchitis
+2017-01-25,2017-01-25,49,Gingival disease
+2017-02-18,2017-03-01,49,Streptococcal sore throat
+2018-02-04,2018-02-13,49,Viral sinusitis
+2020-08-01,2020-08-14,49,Acute bronchitis
+2020-08-12,2020-08-26,49,Gingivitis
+2023-01-11,2023-01-25,49,Gingivitis
+2015-05-04,2015-05-12,50,Gingivitis
+2015-05-11,2015-05-12,50,Gingival disease
+2015-05-12,2015-05-12,50,Primary dental caries
+2015-10-19,2015-12-18,50,Fracture of bone
+2015-10-19,2015-12-18,50,Closed fracture of hip
+2016-05-09,2016-05-16,50,Gingivitis
+2016-07-05,2016-07-20,50,Viral sinusitis
+2018-03-03,2018-03-11,50,Acute viral pharyngitis
+2018-10-04,2018-10-18,50,Sprain of ankle
+2019-05-27,2019-06-11,50,Gingivitis
+2019-06-10,2019-06-11,50,Gingival disease
+2021-06-07,2021-06-28,50,Gingivitis
+2021-06-10,2021-06-18,50,Acute bronchitis
+2021-11-18,2021-11-20,50,Acute infective cystitis
+2015-01-17,2015-01-31,51,Gingivitis
+2015-01-31,2015-01-31,51,Gingival disease
+2017-09-28,2017-10-13,51,Viral sinusitis
+2019-02-09,No Stop Date,51,Chronic obstructive bronchitis
+2019-02-09,No Stop Date,51,Ischemic heart disease
+2020-11-26,2020-12-15,51,Acute bronchitis
+2021-01-02,2021-01-02,51,Gingival disease
+2021-02-20,2021-03-06,51,Gingivitis
+2021-10-29,2021-11-17,51,Viral sinusitis
+2022-03-12,2022-03-12,51,Gingival disease
+1966-08-01,No Stop Date,52,Anemia
+1978-08-14,No Stop Date,52,Essential hypertension
+1987-10-05,No Stop Date,52,Metabolic syndrome X
+2010-02-08,No Stop Date,52,Chronic kidney disease stage 1
+2010-02-08,No Stop Date,52,Disorder of kidney due to diabetes mellitus
+2012-02-20,No Stop Date,52,Ischemic heart disease
+2013-01-14,No Stop Date,52,Chronic kidney disease stage 2
+2013-01-14,No Stop Date,52,Microalbuminuria due to type 2 diabetes mellitus
+2017-01-27,2017-01-28,52,Acute infective cystitis
+2017-10-02,2017-10-16,52,Gingivitis
+2017-10-16,2017-10-16,52,Gingival disease
+2017-10-23,2017-11-06,52,Viral sinusitis
+2017-10-30,2017-11-13,52,Gingivitis
+2018-05-21,2018-06-04,52,Gingivitis
+2018-06-04,2018-06-04,52,Infection of tooth
+2018-06-04,2018-06-04,52,Gingival disease
+2022-03-07,2022-06-26,52,Fracture of bone
+2022-03-07,2022-06-26,52,Fracture of rib
+2022-04-18,No Stop Date,52,Chronic kidney disease stage 3
+2022-04-18,No Stop Date,52,Proteinuria due to type 2 diabetes mellitus
+2022-04-18,2022-05-02,52,Gingivitis
+2022-05-30,2022-06-13,52,Gingivitis
+2022-08-29,2022-09-12,52,Gingivitis
+2022-10-24,2022-11-07,52,Gingivitis
+2022-11-07,2022-11-07,52,Gingival disease
+2024-01-29,2024-01-29,52,Primary dental caries
+2024-05-20,2024-06-03,52,Gingivitis
+2024-06-03,2024-06-03,52,Primary dental caries
+2009-09-09,No Stop Date,53,Anemia
+2012-05-06,No Stop Date,53,Chronic sinusitis
+2016-07-20,2016-08-07,53,Miscarriage in first trimester
+2016-07-20,2016-08-07,53,Blighted ovum
+2017-07-20,2017-08-04,53,Viral sinusitis
+2019-12-02,2019-12-17,53,Viral sinusitis
+2023-11-26,2024-02-07,54,Otitis media
+2024-07-06,2024-08-07,54,Otitis media
+2024-07-25,2024-08-06,54,Streptococcal sore throat
+2010-05-27,No Stop Date,55,Impacted molars
+2010-10-20,No Stop Date,55,Chronic intractable migraine without aura
+2015-02-20,2015-03-01,55,Viral sinusitis
+2017-04-28,2017-05-08,55,Viral sinusitis
+2020-05-05,No Stop Date,55,Chronic obstructive bronchitis
+2020-05-05,2020-05-19,55,Gingivitis
+2020-12-24,No Stop Date,55,Dependent drug abuse
+2022-07-05,No Stop Date,55,Essential hypertension
+2024-07-16,2024-07-30,55,Gingivitis
+2024-10-29,No Stop Date,55,Injury of knee
+2024-10-29,No Stop Date,55,Rupture of patellar tendon
+2015-07-16,2015-07-30,56,Gingivitis
+2015-09-10,2015-09-24,56,Gingivitis
+2015-09-17,2015-10-29,56,Acute bacterial sinusitis
+2017-06-08,2017-06-21,56,Viral sinusitis
+2019-05-19,2019-06-04,56,Viral sinusitis
+2020-08-05,2020-08-29,56,Viral sinusitis
+2021-07-08,No Stop Date,56,Hyperlipidemia
+1999-06-16,2016-05-16,57,Perennial allergic rhinitis
+2000-06-15,2016-09-19,57,Childhood asthma
+2016-07-18,2016-08-01,57,Gingivitis
+2018-07-30,No Stop Date,57,Essential hypertension
+2018-07-30,2018-08-13,57,Gingivitis
+2019-06-21,2019-07-07,57,Viral sinusitis
+2019-07-15,2019-08-05,57,Gingivitis
+2019-07-29,2019-08-08,57,Acute bronchitis
+2021-04-12,2021-04-24,57,Acute bronchitis
+2021-04-19,2021-05-04,57,Gingivitis
+2021-05-03,2021-05-03,57,Gingival disease
+2023-09-11,No Stop Date,57,Anemia
+2023-10-02,2023-10-02,57,Primary dental caries
+2011-12-23,No Stop Date,58,Chronic sinusitis
+2017-11-04,2017-11-19,58,Viral sinusitis
+2023-06-07,2023-09-26,58,Otitis media
+2023-10-03,2023-10-11,58,Acute bronchitis
+2014-12-24,2015-01-12,59,Acute bacterial sinusitis
+2015-02-17,2015-03-03,59,Viral sinusitis
+2015-12-04,2015-12-26,59,Viral sinusitis
+2016-02-18,2016-04-10,59,Fracture of bone
+2016-02-18,2016-04-10,59,Fracture of rib
+2016-04-25,2016-05-02,59,Gingivitis
+2016-05-02,2016-05-02,59,Gingival disease
+2017-01-23,2017-01-24,59,Acute infective cystitis
+2017-05-15,2017-05-15,59,Primary dental caries
+2018-02-23,2018-04-02,59,Concussion injury of brain
+2018-02-23,2018-04-02,59,Concussion with no loss of consciousness
+1991-06-13,No Stop Date,60,Anemia
+2007-08-11,No Stop Date,60,Chronic sinusitis
+2014-11-06,2014-11-20,60,Gingivitis
+2015-03-28,2015-04-05,60,Acute viral pharyngitis
+2016-09-27,2018-02-22,60,Polyp of colon
+2016-11-17,2016-12-01,60,Gingivitis
+2016-12-01,2016-12-01,60,Gingival disease
+2018-03-31,2018-04-19,60,Viral sinusitis
+2018-08-22,No Stop Date,60,Malignant neoplasm of breast
+2021-01-19,2021-02-15,59,Disease caused by severe acute respiratory syndrome coronavirus 2
+2021-05-17,2021-05-31,59,Gingivitis
+2021-05-24,2021-06-04,59,Acute bronchitis
+2020-01-18,2020-02-11,60,Viral sinusitis
+2020-10-07,2020-10-17,60,Acute viral pharyngitis
+2021-12-16,2021-12-30,60,Gingivitis
+2022-11-10,2022-11-22,60,Acute viral pharyngitis
+1971-04-01,No Stop Date,61,Essential hypertension
+1972-10-26,No Stop Date,61,Disorder of kidney due to diabetes mellitus
+1980-03-20,No Stop Date,61,Microalbuminuria due to type 2 diabetes mellitus
+1980-03-20,No Stop Date,61,Diabetes mellitus type 2
+1980-05-22,No Stop Date,61,Hypertriglyceridemia
+1981-11-12,No Stop Date,61,Metabolic syndrome X
+1983-12-22,No Stop Date,61,Loss of teeth
+1986-02-06,No Stop Date,61,Proteinuria due to type 2 diabetes mellitus
+2007-06-28,2023-02-23,61,Chronic kidney disease stage 2
+2014-09-18,No Stop Date,61,Ischemic heart disease
+2015-04-30,2015-05-07,61,Gingivitis
+2015-05-07,2015-05-07,61,Infection of tooth
+2015-05-12,2015-05-12,61,Alveolitis of jaw
+2015-06-04,2015-06-25,61,Gingivitis
+1963-05-30,1963-08-11,62,Otitis media
+1965-07-01,1965-08-08,62,Otitis media
+1971-01-31,No Stop Date,62,Malignant neoplasm of breast
+1971-09-19,1971-09-19,62,Gingival disease
+2015-12-24,2016-01-07,61,Gingivitis
+1971-10-23,1971-11-18,62,Viral sinusitis
+2016-03-24,2016-04-14,61,Gingivitis
+2016-06-09,2016-06-23,61,Gingivitis
+2017-02-16,2017-04-27,61,Gingivitis
+2017-05-04,2017-05-19,61,Sinusitis
+2017-05-11,2017-06-08,61,Gingivitis
+2017-08-03,2023-02-23,61,Chronic kidney disease stage 3
+2017-08-24,2017-08-24,61,Infection of tooth
+2017-08-29,2017-08-29,61,Alveolitis of jaw
+2017-12-28,2023-02-23,61,Chronic kidney disease stage 4
+2017-12-28,2018-01-11,61,Gingivitis
+2018-03-29,2018-04-19,61,Gingivitis
+2018-10-25,2018-11-15,61,Gingivitis
+2019-09-12,2019-10-03,61,Gingivitis
+2015-01-05,2015-03-07,63,Concussion injury of brain
+2015-01-05,2015-03-07,63,Concussion with no loss of consciousness
+2016-04-22,2016-05-07,63,Viral sinusitis
+2018-04-03,2018-04-18,63,Gingivitis
+2020-04-14,2020-04-28,63,Gingivitis
+2020-09-21,2020-10-01,63,Viral sinusitis
+2021-04-20,2021-05-05,63,Gingivitis
+2020-01-23,No Stop Date,61,Hyperlipidemia
+2022-08-01,2022-08-26,63,Viral sinusitis
+2020-04-23,2020-04-23,61,Infection of tooth
+2023-02-12,2023-02-20,63,Streptococcal sore throat
+2023-05-23,2024-05-07,63,Otitis media
+2020-10-15,2020-11-12,61,Gingivitis
+2020-11-12,2020-11-12,61,Gingival disease
+2020-12-24,2020-12-24,61,Primary dental caries
+2021-01-28,2021-02-11,61,Gingivitis
+2021-02-10,2021-03-02,61,Acute bronchitis
+2021-03-18,2021-04-08,61,Gingivitis
+2021-04-29,2021-05-20,61,Gingivitis
+2021-07-15,2023-02-23,61,End-stage renal disease
+2021-10-14,2021-11-04,61,Gingivitis
+2021-11-04,2021-11-04,61,Primary dental caries
+2022-01-06,2022-01-27,61,Gingivitis
+2022-02-17,2022-03-17,61,Gingivitis
+2023-02-02,2023-02-09,61,Gingivitis
+2024-03-14,2024-03-28,61,Gingivitis
+2018-04-24,2018-06-19,64,Otitis media
+2019-02-08,2019-02-28,64,Acute bronchitis
+2019-09-12,2020-02-18,64,Otitis media
+1979-08-02,No Stop Date,65,Chronic sinusitis
+2015-12-13,2015-12-25,65,Acute viral pharyngitis
+2016-04-13,2016-04-29,65,Viral sinusitis
+2016-08-07,2016-10-02,65,Fracture of bone
+2016-08-07,2016-10-02,65,Fracture of ankle
+2016-09-25,2016-10-09,65,Gingivitis
+2016-10-09,2016-10-09,65,Gingival disease
+2017-10-01,2017-10-15,65,Gingivitis
+2021-07-04,2021-09-21,65,Concussion injury of brain
+2021-07-04,2021-09-21,65,Concussion with no loss of consciousness
+2022-01-25,2022-02-05,65,Acute viral pharyngitis
+2023-11-05,No Stop Date,65,Ischemic heart disease
+2023-11-26,2023-11-26,65,Gingival disease
+1978-07-16,No Stop Date,66,Anemia
+2009-06-14,No Stop Date,66,Essential hypertension
+2010-05-23,No Stop Date,66,Chronic kidney disease stage 2
+2010-05-23,No Stop Date,66,Disorder of kidney due to diabetes mellitus
+2010-05-23,No Stop Date,66,Microalbuminuria due to type 2 diabetes mellitus
+2010-09-19,No Stop Date,66,Metabolic syndrome X
+2010-10-07,No Stop Date,66,Localized  primary osteoarthritis of the hand
+2016-09-18,2016-10-02,66,Gingivitis
+2016-10-02,2016-10-02,66,Primary dental caries
+2018-03-11,2018-03-25,66,Gingivitis
+2019-12-22,2020-01-04,66,Acute viral pharyngitis
+2020-12-04,2021-01-04,66,Disease caused by severe acute respiratory syndrome coronavirus 2
+2021-06-20,2021-07-04,66,Gingivitis
+2021-07-04,2021-07-04,66,Gingival disease
+2022-08-28,2022-09-11,66,Gingivitis
+2023-09-17,2023-09-17,66,Primary dental caries
+2016-07-30,2016-08-15,67,Laceration - injury
+2016-07-30,2016-08-15,67,Laceration of foot
+2017-08-22,2017-09-05,67,Viral sinusitis
+2018-05-23,2018-06-06,67,Gingivitis
+2018-06-06,2018-06-06,67,Gingival disease
+2019-09-04,2019-10-01,67,Viral sinusitis
+2019-12-20,2019-12-22,67,Acute infective cystitis
+2020-06-03,2020-06-17,67,Gingivitis
+2020-11-03,2020-11-30,67,Sinusitis
+2023-06-21,2023-07-05,67,Gingivitis
+2024-04-20,2024-06-06,67,Fracture of mandible
+2024-05-01,2024-05-01,67,Gingival disease
+2024-05-01,2024-05-01,67,Primary dental caries
+2015-08-30,No Stop Date,68,Essential hypertension
+2015-08-30,2015-09-13,68,Gingivitis
+2016-09-04,2016-09-18,68,Gingivitis
+2018-09-30,2018-09-30,68,Primary dental caries
+2020-09-27,2020-10-11,68,Gingivitis
+2020-10-11,2020-10-11,68,Gingival disease
+2021-04-20,2021-05-05,68,Disease caused by severe acute respiratory syndrome coronavirus 2
+2021-10-03,2021-10-17,68,Gingivitis
+1988-02-02,No Stop Date,69,Essential hypertension
+2008-11-13,No Stop Date,69,Osteoarthritis of hip
+2015-07-07,2015-07-21,69,Gingivitis
+2017-07-18,No Stop Date,69,Anemia
+2019-01-16,2019-03-12,69,Injury of knee
+2019-01-16,2019-03-12,69,Rupture of patellar tendon
+2020-08-04,2020-08-18,69,Gingivitis
+2021-03-07,2021-03-20,69,Disease caused by severe acute respiratory syndrome coronavirus 2
+2021-03-07,2021-03-20,69,Pneumonia
+2021-03-07,2021-03-20,69,Hypoxemia
+2021-05-11,No Stop Date,69,Ischemic heart disease
+2021-05-18,2021-06-02,69,Acute bronchitis
+2023-08-22,2023-09-05,69,Gingivitis
+2023-12-10,2023-12-20,69,Acute viral pharyngitis
+1964-11-02,No Stop Date,70,Seizure disorder
+1964-11-02,No Stop Date,70,Epilepsy
+1994-11-30,No Stop Date,70,Sleep disorder
+1995-01-08,No Stop Date,70,Obstructive sleep apnea syndrome
+2003-03-28,No Stop Date,70,Chronic sinusitis
+2016-01-03,2016-01-03,70,Primary dental caries
+2024-02-04,2024-02-18,70,Gingivitis
+2015-06-19,2015-06-19,71,Acute infective cystitis
+2016-10-22,2016-10-22,71,Gingival disease
+2016-10-22,2016-10-22,71,Primary dental caries
+2017-05-12,2017-06-06,71,Viral sinusitis
+2018-09-23,2018-10-06,71,Streptococcal sore throat
+2022-02-19,2022-09-24,71,Anemia
+2016-11-19,2016-12-03,72,Gingivitis
+2018-01-10,2018-02-03,72,Viral sinusitis
+2018-11-24,2018-12-08,72,Gingivitis
+2018-12-08,2018-12-20,72,Acute bronchitis
+2020-06-29,2020-06-30,72,Acute infective cystitis
+2022-12-24,2023-01-07,72,Gingivitis
+2015-03-21,2016-05-04,73,Child attention deficit disorder
+2017-08-11,2017-08-24,73,Streptococcal sore throat
+2019-08-23,2019-09-06,73,Gingivitis
+2019-09-06,2019-09-06,73,Gingival disease
+2020-08-28,2020-09-11,73,Gingivitis
+2022-02-06,2022-02-13,73,Viral sinusitis
+2022-07-20,2022-08-21,73,Sinusitis
+2022-09-09,2022-09-23,73,Gingivitis
+2022-09-23,2022-09-23,73,Infection of tooth
+2022-09-30,No Stop Date,73,Loss of teeth
+2015-11-17,2015-12-02,74,Viral sinusitis
+2016-11-18,2016-12-02,74,Streptococcal sore throat
+2016-11-27,2016-12-04,74,Gingivitis
+2016-12-04,2016-12-04,74,Primary dental caries
+2019-03-17,2019-03-24,74,Gingivitis
+2020-03-22,2020-03-29,74,Gingivitis
+2022-10-03,2023-01-07,74,Sinusitis
+2022-11-05,No Stop Date,74,Chronic sinusitis
+2022-11-13,2022-11-27,74,Gingivitis
+2023-04-09,2023-04-23,74,Gingivitis
+2023-08-12,2023-08-23,74,Acute bronchitis
+2021-05-07,No Stop Date,75,Perennial allergic rhinitis
+2021-08-15,2021-12-19,75,Otitis media
+2021-12-26,2021-12-26,75,Infection of tooth
+2022-10-23,2022-11-01,75,Acute bronchitis
+1997-07-12,No Stop Date,76,Chronic sinusitis
+2015-06-19,2015-07-03,76,Acute bronchitis
+2015-06-29,2015-07-13,76,Gingivitis
+2015-07-27,2015-08-10,76,Gingivitis
+2015-08-10,2015-08-10,76,Gingival disease
+2019-04-14,2019-05-11,76,Viral sinusitis
+2019-08-19,2019-09-02,76,Gingivitis
+2020-08-24,2020-09-07,76,Gingivitis
+2024-09-19,No Stop Date,76,Concussion injury of brain
+2024-09-19,No Stop Date,76,Concussion with no loss of consciousness
+2015-07-17,2015-08-21,77,Sprain of wrist
+2018-01-22,2018-02-05,77,Gingivitis
+2021-02-08,2021-02-22,77,Gingivitis
+2021-02-22,2021-02-22,77,Gingival disease
+2021-02-22,2021-02-22,77,Primary dental caries
+2022-02-04,2022-02-16,77,Acute viral pharyngitis
+2024-02-26,No Stop Date,77,Essential hypertension
+2014-09-13,2014-12-03,78,Injury of neck
+2014-09-13,2014-12-03,78,Whiplash injury to neck
+2015-05-15,2015-06-19,78,Eclampsia in pregnancy
+2018-11-06,2018-11-27,78,Laceration - injury
+2018-11-06,2018-11-27,78,Laceration of thigh
+2021-07-24,2021-08-02,78,Acute viral pharyngitis
+2023-09-23,2023-10-07,78,Gingivitis
+2023-10-07,2023-10-07,78,Gingival disease
+2023-03-20,2023-05-31,79,Otitis media
+2024-07-13,2024-08-06,79,Laceration - injury
+2024-07-13,2024-08-06,79,Laceration of forearm
+1978-03-07,No Stop Date,80,Loss of teeth
+2015-01-15,2015-01-28,80,Acute infective cystitis
+2016-01-26,No Stop Date,80,Anemia
+2017-01-31,2017-02-15,80,Gingivitis
+2017-04-24,2017-05-03,80,Acute viral pharyngitis
+2018-03-03,2018-03-17,80,Acute viral pharyngitis
+2021-01-28,2021-02-21,80,Disease caused by severe acute respiratory syndrome coronavirus 2
+2023-01-03,2023-01-11,80,Acute bronchitis
+2024-03-12,No Stop Date,80,Diabetes mellitus type 2
+2015-01-06,2015-01-06,81,Primary dental caries
+2016-06-27,2016-07-15,81,Acute bronchitis
+2017-01-10,2017-01-17,81,Gingivitis
+2019-06-14,2019-06-23,81,Acute viral pharyngitis
+2020-02-10,2020-03-04,81,Viral sinusitis
+2021-02-13,2021-02-24,81,Streptococcal sore throat
+2021-09-23,2021-10-07,81,Streptococcal sore throat
+2023-04-11,2023-04-27,81,Acute bronchitis
+2023-04-18,2023-05-02,81,Gingivitis
+1952-05-25,No Stop Date,82,Essential hypertension
+1981-11-08,No Stop Date,82,Ischemic heart disease
+1983-03-27,2009-02-08,82,Chronic kidney disease stage 1
+1983-03-27,No Stop Date,82,Disorder of kidney due to diabetes mellitus
+1990-10-14,No Stop Date,82,Chronic sinusitis
+1996-02-04,2009-02-08,82,Chronic kidney disease stage 2
+1996-02-04,No Stop Date,82,Microalbuminuria due to type 2 diabetes mellitus
+2000-10-22,2009-02-08,82,Chronic kidney disease stage 3
+2000-10-22,No Stop Date,82,Proteinuria due to type 2 diabetes mellitus
+2001-08-11,2001-11-18,82,Otitis media
+2001-10-20,2001-12-03,82,Injury of neck
+2001-10-20,2001-12-03,82,Whiplash injury to neck
+2002-03-03,2002-04-14,82,Gingivitis
+2002-04-21,2002-04-30,82,Acute viral pharyngitis
+2002-04-28,2002-05-12,82,Gingivitis
+2002-05-12,2002-05-12,82,Infection of tooth
+2002-05-19,No Stop Date,82,Loss of teeth
+2002-05-19,2002-06-09,82,Torus palatinus
+2002-06-02,2002-06-23,82,Gingivitis
+2002-08-18,2002-09-01,82,Gingivitis
+2002-09-01,2002-09-01,82,Gingival disease
+2004-03-07,2004-03-28,82,Gingivitis
+2005-05-29,2005-06-12,82,Gingivitis
+2005-06-12,2005-06-12,82,Gingival disease
+2005-09-25,2005-10-09,82,Gingivitis
+2011-11-07,No Stop Date,83,Dependent drug abuse
+2012-09-23,2012-10-07,83,Gingivitis
+2006-04-02,2009-02-08,82,Chronic kidney disease stage 4
+2013-05-19,2013-07-07,83,Pre-eclampsia
+2013-09-29,2013-10-14,83,Gingivitis
+2014-04-12,2014-04-21,83,Acute viral pharyngitis
+2016-02-11,2016-02-22,83,Acute viral pharyngitis
+2017-03-26,2017-04-03,83,Acute bronchitis
+2006-04-23,2006-04-23,82,Gingival disease
+2006-06-25,2006-07-16,82,Gingivitis
+2017-04-03,2017-04-03,83,Gingival disease
+2017-12-25,2018-01-02,83,Viral sinusitis
+2021-01-28,2021-02-08,83,Acute viral pharyngitis
+2006-12-31,2009-02-08,82,End-stage renal disease
+2006-12-31,2007-01-21,82,Gingivitis
+2007-04-08,No Stop Date,82,Osteoporosis
+2007-05-06,2007-05-06,82,Primary dental caries
+2007-05-27,2007-06-17,82,Gingivitis
+2007-08-19,2007-09-09,82,Gingivitis
+2013-12-06,No Stop Date,84,Seizure disorder
+2016-03-12,2016-04-03,84,Laceration - injury
+2016-03-12,2016-04-03,84,Laceration of hand
+2008-07-13,2008-08-03,82,Gingivitis
+2018-03-10,2018-03-17,84,Gingivitis
+2008-12-14,2009-01-04,82,Gingivitis
+2009-02-22,2009-03-22,82,Gingivitis
+2010-04-25,2010-05-09,82,Gingivitis
+2024-04-20,2024-05-14,84,Viral sinusitis
+2024-06-27,2024-07-05,84,Acute viral pharyngitis
+2010-05-09,2010-05-09,82,Primary dental caries
+2016-09-25,2016-10-09,85,Gingivitis
+2017-02-01,2017-02-26,85,Viral sinusitis
+2017-03-16,2017-03-17,85,Acute infective cystitis
+2019-04-06,2019-05-17,85,Fracture of bone
+2019-04-06,2019-05-17,85,Fracture subluxation of wrist
+2019-05-24,2019-06-06,85,Viral sinusitis
+2020-02-09,2020-02-20,85,Acute viral pharyngitis
+2020-02-16,2020-02-17,85,Infection of tooth
+2024-07-30,2024-09-16,85,Traumatic dislocation of temporomandibular joint
+2017-10-26,2017-11-09,86,Gingivitis
+2017-11-09,2017-11-09,86,Primary dental caries
+2018-03-22,2018-11-08,86,Anemia
+2019-10-18,2019-12-07,86,Epidermal burn of skin
+2022-10-06,2022-10-17,86,Acute viral pharyngitis
+2023-10-26,2023-10-26,86,Infection of tooth
+1998-06-11,No Stop Date,87,Recurrent urinary tract infection
+2016-12-17,2016-12-31,87,Gingivitis
+2016-12-31,2016-12-31,87,Primary dental caries
+2017-03-14,2017-03-22,87,Acute viral pharyngitis
+2018-12-22,2019-01-05,87,Gingivitis
+2020-06-28,2020-07-24,87,Viral sinusitis
+2020-12-26,2021-01-09,87,Gingivitis
+2022-11-30,No Stop Date,87,Sleep disorder
+2022-12-17,No Stop Date,87,Obstructive sleep apnea syndrome
+2024-04-19,2024-04-29,87,Acute viral pharyngitis
+1983-10-15,No Stop Date,88,Localized  primary osteoarthritis of the hand
+1998-05-22,No Stop Date,88,Hyperlipidemia
+2001-05-04,No Stop Date,88,Essential hypertension
+2005-05-27,No Stop Date,88,Ischemic heart disease
+2006-06-02,2022-09-16,88,Chronic kidney disease stage 1
+2006-06-02,No Stop Date,88,Disorder of kidney due to diabetes mellitus
+2008-01-31,No Stop Date,88,Chronic sinusitis
+2008-05-09,2022-09-16,88,Chronic kidney disease stage 2
+2008-05-09,No Stop Date,88,Microalbuminuria due to type 2 diabetes mellitus
+2010-04-16,No Stop Date,88,Loss of teeth
+2010-07-02,2022-09-16,88,Chronic kidney disease stage 3
+2010-07-02,No Stop Date,88,Proteinuria due to type 2 diabetes mellitus
+2015-04-12,No Stop Date,88,Leukemia  disease
+2015-05-01,2015-07-03,88,Gingivitis
+2015-07-31,2015-08-28,88,Gingivitis
+2016-09-23,2016-10-07,88,Gingivitis
+2017-03-24,2017-04-07,88,Gingivitis
+2015-10-03,2015-10-03,89,Primary dental caries
+2016-02-15,2016-02-24,89,Acute viral pharyngitis
+2017-12-22,2018-01-21,89,Sprain of ankle
+2019-09-09,2019-09-19,89,Acute viral pharyngitis
+2023-10-21,2023-11-04,89,Gingivitis
+2023-11-12,2023-11-15,89,Acute infective cystitis
+2017-08-11,2022-09-16,88,Chronic kidney disease stage 4
+1967-03-20,No Stop Date,90,Essential hypertension
+1980-06-08,No Stop Date,90,Disorder of kidney due to diabetes mellitus
+1982-04-25,No Stop Date,90,Microalbuminuria due to type 2 diabetes mellitus
+1983-04-20,No Stop Date,90,Osteoarthritis of knee
+1985-09-01,No Stop Date,90,Proteinuria due to type 2 diabetes mellitus
+1992-04-25,No Stop Date,90,Mitral valve regurgitation
+2003-02-02,No Stop Date,90,Chronic kidney disease stage 1
+2005-10-26,No Stop Date,90,Ischemic heart disease
+2007-09-09,No Stop Date,90,Osteoporosis
+2014-06-15,No Stop Date,90,Loss of teeth
+2014-11-02,2014-11-16,90,Gingivitis
+2014-12-21,2015-01-04,90,Gingivitis
+2015-01-04,2015-01-04,90,Gingival disease
+2019-08-23,2019-09-13,88,Gingivitis
+2017-04-16,2017-04-30,90,Gingivitis
+2017-04-30,2017-04-30,90,Gingival disease
+2018-01-07,2018-01-21,90,Gingivitis
+2018-03-22,2018-04-08,90,Laceration - injury
+2018-03-22,2018-04-08,90,Facial laceration
+2018-10-14,2018-10-28,90,Gingivitis
+2019-07-07,2019-07-21,90,Gingivitis
+2020-04-03,2020-04-24,88,Gingivitis
+2019-07-21,2019-07-21,90,Gingival disease
+2020-05-08,2020-05-20,88,Viral sinusitis
+2020-05-15,2020-05-29,88,Gingivitis
+2021-01-24,No Stop Date,90,Chronic kidney disease stage 2
+2021-04-11,2021-05-16,90,Gingivitis
+2021-05-23,2021-06-14,90,Viral sinusitis
+2021-11-21,2021-12-05,90,Gingivitis
+2022-01-30,2022-02-13,90,Gingivitis
+2024-10-11,2024-10-25,88,Gingivitis
+2024-10-25,2024-10-25,88,Gingival disease
+2009-02-20,No Stop Date,91,Diabetes mellitus type 2
+2009-02-20,No Stop Date,91,Anemia
+2010-02-26,No Stop Date,91,Hypertriglyceridemia
+2010-02-26,No Stop Date,91,Metabolic syndrome X
+2015-04-28,2015-05-08,91,Viral sinusitis
+2017-09-01,2017-09-08,91,Acute viral pharyngitis
+2017-09-08,2017-09-08,91,Infection of tooth
+2017-09-15,No Stop Date,91,Loss of teeth
+2017-09-15,2017-09-22,91,Torus palatinus
+2019-05-03,2019-05-12,91,Acute viral pharyngitis
+2019-01-24,2019-02-08,92,Gingivitis
+2020-08-20,2020-11-07,92,Injury of knee
+2020-08-20,2020-11-07,92,Rupture of patellar tendon
+2020-09-21,2020-09-30,92,Acute viral pharyngitis
+2019-09-17,2019-09-27,93,Acute bronchitis
+2020-06-06,2020-06-18,93,Acute viral pharyngitis
+2020-10-06,2020-10-20,93,Gingivitis
+2022-04-02,2022-04-15,93,Viral sinusitis
+2022-10-25,2022-10-25,93,Primary dental caries
+2023-07-29,No Stop Date,93,Sepsis
+2024-04-16,2024-04-30,93,Gingivitis
+2024-04-23,2024-05-07,93,Viral sinusitis
+2008-07-15,No Stop Date,94,Recurrent urinary tract infection
+2008-12-06,No Stop Date,94,Essential hypertension
+2012-12-29,No Stop Date,94,Chronic kidney disease stage 1
+2012-12-29,No Stop Date,94,Disorder of kidney due to diabetes mellitus
+2014-01-04,No Stop Date,94,Chronic kidney disease stage 2
+2014-01-04,No Stop Date,94,Microalbuminuria due to type 2 diabetes mellitus
+2016-01-16,No Stop Date,94,Chronic kidney disease stage 3
+2016-01-16,No Stop Date,94,Proteinuria due to type 2 diabetes mellitus
+2016-04-09,2016-04-23,94,Gingivitis
+2016-06-04,2016-06-18,94,Gingivitis
+2016-12-03,2016-12-17,94,Gingivitis
+2016-12-17,2016-12-17,94,Primary dental caries
+2017-07-01,2017-07-15,94,Gingivitis
+2017-07-15,2017-07-15,94,Gingival disease
+2017-09-30,2017-10-14,94,Gingivitis
+2017-10-14,2017-10-14,94,Primary dental caries
+2018-01-27,2018-02-17,94,Gingivitis
+2019-01-19,2019-02-16,94,Gingivitis
+2019-12-28,2019-12-28,94,Gingival disease
+2020-02-08,2020-02-22,94,Gingivitis
+2020-02-22,2020-02-22,94,Primary dental caries
+2021-02-13,No Stop Date,94,Metabolic syndrome X
+2021-07-24,2021-07-24,94,Gingival disease
+2022-02-05,2022-03-05,94,Gingivitis
+2015-08-05,2016-03-05,95,Acute bacterial sinusitis
+2015-09-19,No Stop Date,95,Chronic sinusitis
+2017-04-20,2017-05-04,95,Gingivitis
+2020-10-29,2020-11-07,95,Acute viral pharyngitis
+2021-02-06,2021-02-20,95,Acute viral pharyngitis
+2021-03-25,2021-03-26,95,Anemia
+2021-04-28,No Stop Date,95,Essential hypertension
+2021-06-16,2021-10-22,95,Sinusitis
+2022-01-05,2022-01-15,95,Viral sinusitis
+2024-05-04,2024-05-15,94,Streptococcal sore throat
+2024-05-11,2024-08-31,94,Gingivitis
+2024-05-30,2024-05-30,95,Primary dental caries
+2024-08-17,2024-08-24,94,Acute bronchitis
+2017-09-22,2017-09-22,96,Gingival disease
+2017-10-06,2017-12-04,96,Concussion injury of brain
+2017-10-06,2017-12-04,96,Concussion with no loss of consciousness
+2022-02-19,No Stop Date,96,Child attention deficit disorder
+2023-02-01,2023-02-18,96,Acute bronchitis
+2023-02-24,2023-03-03,96,Gingivitis
+2023-03-03,2023-03-03,96,Gingival disease
+2023-07-14,2023-07-25,96,Streptococcal sore throat
+2023-10-20,2023-11-03,96,Gingivitis
+2023-11-03,2023-11-03,96,Primary dental caries
+2023-11-10,2024-01-07,96,Fracture of bone
+2023-11-10,2024-01-07,96,Fracture of ankle
+2016-11-23,2016-12-08,97,Acute bronchitis
+2017-06-17,2017-06-17,97,Gingival disease
+2018-05-07,2018-05-24,97,Acute bronchitis
+2018-05-26,2018-05-26,97,Primary dental caries
+2018-06-16,2018-06-23,97,Gingivitis
+2018-06-23,2018-06-23,97,Gingival disease
+2018-06-23,2018-06-23,97,Primary dental caries
+2019-08-23,2019-09-01,97,Acute viral pharyngitis
+2020-05-06,2020-05-30,97,Viral sinusitis
+2020-12-05,2021-01-02,97,Disease caused by severe acute respiratory syndrome coronavirus 2
+2022-07-09,2022-07-23,97,Gingivitis
+2023-07-15,2023-07-29,97,Gingivitis
+2024-01-24,2024-02-08,97,Sprain of wrist
+2014-11-06,2015-01-01,98,Fracture of bone
+2014-11-06,2015-01-01,98,Fracture of ankle
+2015-06-28,2015-08-06,98,Otitis media
+2016-11-03,2016-12-17,98,Concussion injury of brain
+2016-11-03,2016-12-17,98,Concussion with no loss of consciousness
+2016-12-12,2016-12-22,98,Acute viral pharyngitis
+2017-08-17,2017-08-24,98,Gingivitis
+2018-08-30,2018-08-30,98,Primary dental caries
+2019-08-29,2019-09-05,98,Gingivitis
+2020-08-06,2020-08-24,98,Acute bronchitis
+2021-05-03,2021-05-10,98,Acute bronchitis
+2021-07-02,2021-07-10,98,Streptococcal sore throat
+2022-09-15,2022-09-29,98,Gingivitis
+2022-11-12,2022-12-07,98,Viral sinusitis
+2022-12-05,2022-12-12,98,Streptococcal sore throat
+2023-07-12,2023-07-21,98,Acute viral pharyngitis
+2024-07-05,2024-07-14,98,Viral sinusitis
+1991-03-12,No Stop Date,99,Major depressive disorder
+1992-05-31,No Stop Date,99,Recurrent urinary tract infection
+2015-08-08,2015-08-20,99,Acute viral pharyngitis
+2016-02-16,2016-03-01,99,Gingivitis
+2024-02-10,2024-02-27,99,Viral sinusitis
+2024-04-02,2024-04-16,99,Gingivitis
+2019-02-26,2019-03-28,101,Fracture of bone
+2019-02-26,2019-03-28,101,Fracture of clavicle
+2020-04-29,2020-05-07,101,Acute bronchitis
+2020-09-21,2020-09-21,101,Primary dental caries
+2020-11-24,2021-03-15,101,Otitis media
+2021-04-18,2021-05-19,101,Sprain of wrist
+2022-08-18,2022-08-27,101,Streptococcal sore throat
+1993-04-29,No Stop Date,102,Sleep disorder
+1993-05-12,No Stop Date,102,Obstructive sleep apnea syndrome
+1994-07-23,No Stop Date,102,Essential hypertension
+2012-11-03,No Stop Date,102,Anemia
+2016-12-10,2016-12-10,102,Gingival disease
+2017-12-02,2017-12-16,102,Gingivitis
+2018-05-23,2018-06-12,102,Acute bronchitis
+2018-12-08,No Stop Date,102,Metabolic syndrome X
+2020-05-07,2021-05-12,102,Polyp of colon
+2021-12-25,2022-01-08,102,Gingivitis
+2022-01-08,2022-01-08,102,Primary dental caries
+2023-06-27,2023-07-17,102,Laceration - injury
+2023-06-27,2023-07-17,102,Laceration of hand
+2024-01-06,2024-01-20,102,Gingivitis
+2024-01-20,2024-01-20,102,Infection of tooth
+2024-01-27,No Stop Date,102,Loss of teeth
+2024-06-14,2024-06-23,102,Viral sinusitis
+2024-07-29,2024-08-23,102,Viral sinusitis
+1991-03-29,No Stop Date,103,Chronic sinusitis
+2002-02-28,No Stop Date,103,Loss of teeth
+2005-02-10,No Stop Date,103,Essential hypertension
+2013-03-28,No Stop Date,103,Chronic kidney disease stage 1
+2013-03-28,No Stop Date,103,Disorder of kidney due to diabetes mellitus
+2015-04-09,No Stop Date,103,Chronic kidney disease stage 2
+2015-04-09,No Stop Date,103,Microalbuminuria due to type 2 diabetes mellitus
+2016-04-14,2016-04-28,103,Gingivitis
+2016-11-10,2016-11-10,103,Gingival disease
+2020-02-20,2020-03-05,103,Gingivitis
+2020-03-12,2020-03-20,103,Acute viral pharyngitis
+2020-04-09,2020-04-23,103,Gingivitis
+2020-04-23,2020-04-23,103,Primary dental caries
+2020-08-06,2020-08-20,103,Gingivitis
+2020-08-20,2020-08-20,103,Primary dental caries
+2020-10-29,2020-11-21,103,Viral sinusitis
+2023-02-16,No Stop Date,103,Anemia
+2023-05-25,No Stop Date,103,Chronic kidney disease stage 4
+2023-05-25,No Stop Date,103,Proteinuria due to type 2 diabetes mellitus
+2023-05-25,No Stop Date,103,Metabolic syndrome X
+2023-05-25,2023-06-15,103,Gingivitis
+2023-09-26,2023-09-29,103,Acute infective cystitis
+2024-04-18,No Stop Date,103,End-stage renal disease
+2024-05-09,2024-05-09,103,Primary dental caries
+2024-05-30,2024-06-27,103,Gingivitis
+2024-07-18,2024-08-08,103,Gingivitis
+2024-08-08,2024-08-08,103,Gingival disease
+2024-09-19,2024-09-19,103,Primary dental caries
+1968-01-25,No Stop Date,104,Loss of teeth
+1972-10-15,No Stop Date,104,Seizure disorder
+1972-10-15,No Stop Date,104,Epilepsy
+1980-01-31,No Stop Date,104,Essential hypertension
+1989-03-23,2017-06-15,104,Chronic kidney disease stage 1
+1989-03-23,No Stop Date,104,Disorder of kidney due to diabetes mellitus
+1991-04-04,2017-06-15,104,Chronic kidney disease stage 2
+1991-04-04,No Stop Date,104,Microalbuminuria due to type 2 diabetes mellitus
+2008-11-20,2008-12-18,104,Gingivitis
+2008-12-25,2009-01-02,104,Streptococcal sore throat
+2009-01-01,2017-06-15,104,Chronic kidney disease stage 3
+2009-01-01,No Stop Date,104,Proteinuria due to type 2 diabetes mellitus
+2009-07-16,2009-07-30,104,Gingivitis
+2010-09-09,2010-09-09,104,Gingival disease
+2011-01-20,No Stop Date,104,Anemia
+2011-07-28,2017-06-15,104,Chronic kidney disease stage 4
+2012-06-14,2017-06-15,104,End-stage renal disease
+2012-08-02,2012-08-30,104,Gingivitis
+2012-08-30,2012-08-30,104,Gingival disease
+2012-12-13,2013-01-03,104,Gingivitis
+2013-03-14,2013-04-04,104,Gingivitis
+2013-09-19,2013-12-12,104,Gingivitis
+2013-12-05,2013-12-23,104,Acute bronchitis
+2014-05-15,2014-06-05,104,Gingivitis
+2014-08-07,2014-08-21,104,Gingivitis
+2015-02-26,2015-02-26,104,Gingival disease
+2015-09-10,2015-10-08,104,Gingivitis
+2015-11-19,2015-11-19,104,Gingival disease
+2016-01-07,2016-01-21,104,Gingivitis
+2016-01-21,2016-01-21,104,Gingival disease
+2016-02-04,2016-02-22,104,Viral sinusitis
+2017-04-24,2017-05-19,104,Viral sinusitis
+1986-02-06,No Stop Date,105,Essential hypertension
+1999-11-10,No Stop Date,105,Sleep disorder
+1999-12-06,No Stop Date,105,Sleep apnea
+2001-05-03,No Stop Date,105,Ischemic heart disease
+2012-10-28,No Stop Date,105,Primary fibromyalgia syndrome
+2015-07-23,2015-08-06,105,Gingivitis
+2015-08-06,2015-08-06,105,Infection of tooth
+2015-08-13,No Stop Date,105,Loss of teeth
+2015-08-13,2015-08-31,105,Tongue tie
+2016-07-28,2016-08-11,105,Gingivitis
+2017-08-03,2017-08-17,105,Gingivitis
+2018-04-04,2018-05-27,105,Injury of neck
+2018-04-04,2018-05-27,105,Whiplash injury to neck
+2019-08-15,No Stop Date,105,Metabolic syndrome X
+2021-05-09,2021-05-27,105,Viral sinusitis
+2022-09-01,2022-09-15,105,Gingivitis
+2022-09-15,2022-09-15,105,Gingival disease
+2024-09-12,2024-09-26,105,Gingivitis
+2024-09-26,2024-09-26,105,Infection of tooth

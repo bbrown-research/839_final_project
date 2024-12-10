@@ -1,0 +1,6 @@
+{
+  "prompt_01": {
+    "content": "Given the below data, use it to create a knowledge graph. Return a list of the connections between two nodes as tuples, one per line. For example: (Node A, Node B). Do not include any other text in your response. Each row of the data contains information about a single condition related to a single patient. The first value of the row is the condition start date, the second is the condition stop date or is No Stop Date if the condition continues to persists, the third column is the patient Id and the fourth column is the condition name. Using this information, create the knowledge graph that relates each of the patients, specified by the patient id, to the conditions that they have.",
+    "file_attachment": "testing_conditions.txt"
+  }
+}
