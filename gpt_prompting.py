@@ -8,10 +8,6 @@ import argparse
 from openai.types.beta.threads.message import Attachment
 from openai.types.beta.threads.message_create_params import AttachmentToolFileSearch
 
-#PARAMS FOR GPT CONTROL
-MAX_OUTPUT_TOKENS = 200
-MAX_TIMEOUT_MS = 1000
-
 def prompt_gpt(file_mechanism):
     parser = argparse.ArgumentParser()
     parser.add_argument("--openai_key", help='Your OpenAI api key')
@@ -54,7 +50,7 @@ def prompt_gpt(file_mechanism):
     return prompt_result_information
 
 
-def prompt_gpt_model(open_ai_client, prompt_text, model_type="gpt-4o-mini", attachments=None):
+def prompt_gpt_model(open_ai_client, prompt_text, model_type="gpt-4o-mini", attachments=None, max_output_tokens=200, max_timeout_ms=1000):
     gpt_assistant_model = open_ai_client.beta.assistants.create(
         model=model_type,
         description="A model that can handle PDF files.",
@@ -81,8 +77,8 @@ def prompt_gpt_model(open_ai_client, prompt_text, model_type="gpt-4o-mini", atta
     query = open_ai_client.beta.threads.runs.create_and_poll(
         thread_id=thread.id,
         assistant_id=gpt_assistant_model.id,
-        timeout=MAX_TIMEOUT_MS,
-        max_completion_tokens=MAX_OUTPUT_TOKENS
+        timeout=max_timeout_ms,
+        max_completion_tokens=max_output_tokens
     )
 
     messages_cursor = open_ai_client.beta.threads.messages.list(thread_id=thread.id)
