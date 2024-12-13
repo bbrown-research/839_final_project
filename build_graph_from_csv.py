@@ -2,7 +2,7 @@ import pandas as pd
 from os import path
 from dataclasses import dataclass
 import networkx
-from pprint import pprint
+from eval import edit_dist, spectral_dist
 
 
 @dataclass
@@ -87,4 +87,8 @@ def make_graph(get_filename=Data.get_test):
 
 if __name__ == "__main__":
     graph = make_graph(get_filename=Data.get_all)
-    networkx.draw(graph, with_labels=True)
+    
+    print()
+    print("Should be 0")
+    print(edit_dist(graph, graph))
+    print(spectral_dist(graph, graph))
