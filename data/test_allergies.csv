@@ -1,3 +1,4 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,REACTION1,DESCRIPTION1,SEVERITY1,REACTION2,DESCRIPTION2,SEVERITY2
 1994-06-19,,33828cb4-a2f6-3a66-fe02-c990fa88af61,6cd22da8-5ac2-7ad7-ae5c-cdd6088ba8ee,419199007,SNOMED-CT,Allergy to substance (finding),allergy,environment,,,,,,
 1994-06-19,,33828cb4-a2f6-3a66-fe02-c990fa88af61,6cd22da8-5ac2-7ad7-ae5c-cdd6088ba8ee,1191,RxNorm,Aspirin,allergy,medication,402387002.0,Allergic angioedema (disorder),MODERATE,21522001.0,Abdominal pain (finding),MODERATE
 1962-11-22,,bad5a231-3709-952a-cf44-f8d6a52cc214,42e5b5d3-19da-2046-20ab-ef12d3c108de,419199007,SNOMED-CT,Allergy to substance (finding),allergy,environment,,,,,,

@@ -1,3 +1,4 @@
+START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION
 1986-10-07,,34a4dcc4-35fb-6ad5-ab98-be285c586a4f,3606e65a-a4da-810c-ef6b-ddbf6da17952,http://snomed.info/sct,1187604002,Serving in military service (finding)
 1986-10-07,,34a4dcc4-35fb-6ad5-ab98-be285c586a4f,3606e65a-a4da-810c-ef6b-ddbf6da17952,http://snomed.info/sct,224299000,Received higher education (finding)
 1990-10-16,2005-11-01,34a4dcc4-35fb-6ad5-ab98-be285c586a4f,24f50776-1be9-9789-ba60-03447528a47c,http://snomed.info/sct,10939881000119105,Unhealthy alcohol drinking behavior (finding)
