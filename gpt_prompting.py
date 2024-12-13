@@ -102,6 +102,8 @@ def create_gpt_attachment_file(open_ai_client, file_path, read_type='rb'):
 
 
 def convert_prompt_results_to_graph(prompt_results):
+    results = []
+
     for prompt_id, prompt_info in prompt_results.items():
         prompt_result_text = prompt_info['result']
         raw_res = prompt_result_text.split("\n")
@@ -116,13 +118,20 @@ def convert_prompt_results_to_graph(prompt_results):
         for edge in edge_matrix:
             mygraph.add_edge(edge[0], edge[1])
 
-        networkx.draw(mygraph, with_labels=True)
+        results.append(mygraph)
+    
+    return results
+
+
+class ALLOWED_FILE_MECHANISMS:
+    APPEND = "append_to_prompt"
+    ATTACH = "attach_file_to_prompt"
 
 
 if __name__ == '__main__':
-    allowed_file_mechanisms = ['append_to_prompt', 'attach_file_to_prompt']
-
     #Note: attach_file_to_prompt does not work for CSVs
-    prompt_results = prompt_gpt(file_mechanism=allowed_file_mechanisms[0])
+    prompt_results = prompt_gpt(file_mechanism=ALLOWED_FILE_MECHANISMS.APPEND)
 
-    convert_prompt_results_to_graph(prompt_results)
+    graphs = convert_prompt_results_to_graph(prompt_results)
+    for graph in graphs:
+        networkx.draw(graph, with_labels=True)
