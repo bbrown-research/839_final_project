@@ -92,5 +92,5 @@ if __name__ == "__main__":
     print("Should be 0")
     print(edit_dist(graph, graph))
     print("Running spectral distance")
-    print(spectral_dist(graph, graph))
+    print(spectral_dist(graph, graph, k=100))
     print("Done!")
