@@ -61,20 +61,20 @@ def make_train_test_split_data(raw_data_path='raw_data/', training_percentage=0.
     test_patients = patients_pd[patients_pd['Id'].isin(test_ids)]
 
     if save_as_csv:
-        train_allergies.to_csv('data/train_allergies.csv', header=None, index=None, sep=',')
-        test_allergies.to_csv('data/test_allergies.csv', header=None, index=None, sep=',')
+        train_allergies.to_csv('data/train_allergies.csv', index=None, sep=',')
+        test_allergies.to_csv('data/test_allergies.csv', index=None, sep=',')
 
-        train_conditions.to_csv('data/train_conditions.csv', header=None, index=None, sep=',')
-        test_conditions.to_csv('data/test_conditions.csv', header=None, index=None, sep=',')
+        train_conditions.to_csv('data/train_conditions.csv', index=None, sep=',')
+        test_conditions.to_csv('data/test_conditions.csv', index=None, sep=',')
 
-        train_medications.to_csv('data/train_medications.csv', header=None, index=None, sep=',')
-        test_medications.to_csv('data/test_medications.csv', header=None, index=None, sep=',')
+        train_medications.to_csv('data/train_medications.csv', index=None, sep=',')
+        test_medications.to_csv('data/test_medications.csv', index=None, sep=',')
 
-        train_observations.to_csv('data/train_observations.csv', header=None, index=None, sep=',')
-        test_observations.to_csv('data/test_observations.csv', header=None, index=None, sep=',')
+        train_observations.to_csv('data/train_observations.csv', index=None, sep=',')
+        test_observations.to_csv('data/test_observations.csv', index=None, sep=',')
 
-        train_patients.to_csv('data/train_patients.csv', header=None, index=None, sep=',')
-        test_patients.to_csv('data/test_patients.csv', header=None, index=None, sep=',')
+        train_patients.to_csv('data/train_patients.csv', index=None, sep=',')
+        test_patients.to_csv('data/test_patients.csv', index=None, sep=',')
 
 
 if __name__ == '__main__':
