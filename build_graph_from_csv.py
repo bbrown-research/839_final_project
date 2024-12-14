@@ -11,14 +11,14 @@ class Data:
     conditions: pd.DataFrame
     medications: pd.DataFrame
     # observations: pd.DataFrame
-    allergies: pd.DataFrame
+    # allergies: pd.DataFrame
 
     OBJECT_TYPES = [
         "patients",
         "conditions",
         "medications",
         # "observations",
-        "allergies",
+        # "allergies",
     ]
 
     @staticmethod
@@ -75,7 +75,7 @@ class Data:
         "conditions": ["START", "PATIENT", "CODE"],
         "medications": ["START", "PATIENT", "CODE"],
         # "observations": ["DATE", "PATIENT", "CODE"],
-        "allergies": ["START", "PATIENT", "CODE"]
+        # "allergies": ["START", "PATIENT", "CODE"]
     }
 
 

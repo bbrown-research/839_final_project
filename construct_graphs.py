@@ -1,6 +1,6 @@
 import argparse
 import copy
-
+import random
 import networkx
 import numpy as np
 import pandas as pd
@@ -10,16 +10,21 @@ from build_graph_from_csv import make_graph, Data
 from eval import edit_dist, spectral_dist
 from gpt_prompting import prompt_gpt_model
 
+np.random.seed(12345)
+random.seed(12345)
+
 
 def copy_over_some_nodes(add_to_graph, source_graph, copy_percent=0.1):
-    target_nodes = set(list(add_to_graph.nodes))
-    usable_source_nodes = set(list(source_graph.nodes))
+    np.random.seed(12345)
+    random.seed(12345)
+    # target_nodes = set(list(add_to_graph.nodes))
+    # usable_source_nodes = set(list(source_graph.nodes))
 
-    nodes_in_src_not_in_tgt = usable_source_nodes.difference(target_nodes)
+    nodes_in_src_not_in_tgt = np.setdiff1d(list(source_graph.nodes), list(add_to_graph.nodes)).tolist()
     only_patients_not_in = [x for x in nodes_in_src_not_in_tgt if '-' in x or ' ' in x]
 
     num_to_sample = round(len(only_patients_not_in) * copy_percent)
-    sampled_patients = np.random.choice(only_patients_not_in, size=num_to_sample, replace=False)
+    sampled_patients = only_patients_not_in#np.random.choice(only_patients_not_in, size=num_to_sample, replace=False)
 
     new_target_graph = copy.deepcopy(add_to_graph)
     for p in sampled_patients:
@@ -29,6 +34,8 @@ def copy_over_some_nodes(add_to_graph, source_graph, copy_percent=0.1):
 
 
 def copy_over_some_edges(add_to_graph, source_graph, new_nodes, copy_percent):
+    np.random.seed(12345)
+    random.seed(12345)
     all_added_edges = []
     all_missing_edges = []
     for node in new_nodes:
@@ -46,7 +53,7 @@ def copy_over_some_edges(add_to_graph, source_graph, new_nodes, copy_percent):
 
 if __name__ == '__main__':
     np.random.seed(12345)
-
+    random.seed(12345)
     train_graph, train_data, train_id_map = make_graph(get_filename=Data.get_train, hash_type='np_nt', replace_id_w_name=True)
     test_graph, test_data, test_id_map = make_graph(get_filename=Data.get_test, hash_type='np_nt', replace_id_w_name=True)
     combined_graph, _, _ = make_graph(get_filename=Data.get_all, hash_type='np_nt', replace_id_w_name=True)
@@ -61,6 +68,8 @@ if __name__ == '__main__':
     # Add back the some of the edges for some of the nodes from the test set
 
     mutated_nodes_percent = 0.1
+    np.random.seed(12345)
+    random.seed(12345)
     nodes_to_add_some_edges = list(np.random.choice(copied_nodes, size=round(mutated_nodes_percent*len(copied_nodes)), replace=False))
     nodes_to_add_all_edges = set(copied_nodes).difference(set(nodes_to_add_some_edges))
     exp1_graph_partial_nodes_and_edges, added_edges1, _ = copy_over_some_edges(add_to_graph=copy.deepcopy(exp1_graph),
@@ -99,11 +108,10 @@ if __name__ == '__main__':
     graph_text = ["(" + ", ".join(x) + ")" for x in list(exp1_graph_with_added_nodes_and_edges.edges)]
     graph_text = "\n".join(graph_text)
 
-    add_max_n_edges = False
+    add_max_n_edges = True
     max_n_edges_text = ""
     if add_max_n_edges:
-        max_n_edges_text = f"At most, only {len(missing_edges)} edges are missing from the graph. Make sure your output is less that {len(missing_edges)} edges, " \
-                           f"although the actual number of missing edges may be closer to {len(missing_edges)//2} or even {len(missing_edges)//10}."
+        max_n_edges_text = f"There are {len(missing_edges)} missing edges."
 
     gpt_query = f"I will give you a partially completed knowledge graph that I want you to complete. The knowledge graph connects information about patients " \
                 f"with allergies, conditions, medications, and health observations that are described by SNOMED-CT codes. Patients are the nodes with names like " \
@@ -173,27 +181,43 @@ if __name__ == '__main__':
     print(f"Experiment 01 Edit Distance: {dist_edit_combo_to_gpt}")
     print(f"Experiment 01 Spectral Distance: {dist_s_combo_to_gpt}")
 
-    print(f"Experiment 01 Edit Distance from Graph with no edges added: {dist_edit_combo_to_noedge}")
-    print(f"Experiment 01 Spectral Distance from Graph with no edges added: {dist_s_combo_to_noedge}")
+    # print(f"Experiment 01 Edit Distance from Graph with no edges added: {dist_edit_combo_to_noedge}")
+    # print(f"Experiment 01 Spectral Distance from Graph with no edges added: {dist_s_combo_to_noedge}")
 
-    print(f"Num Nodes with some edges missing: {len(nodes_to_add_some_edges)} and total number of edges missing: {len(missing_edges)}")
+    # print(f"Num Nodes with some edges missing: {len(nodes_to_add_some_edges)} and total number of edges missing: {len(missing_edges)}")
 
     false_positive = 0
     true_positive = 0
     not_recovered = 0
+
+    missing_edges = [tuple([str(x[0]), str(x[1])]) for x in missing_edges]
+    missing_dict_arr = {str(k):[] for k in set([x[0] for x in missing_edges])}
+    for v in missing_edges:
+        missing_dict_arr[str(v[0])].append(v[1])
+
     for x in gpt_added_edges:
-        if x in missing_edges:
-            true_positive += 1
-        else:
-            false_positive += 1
-    for x in missing_edges:
-        if x not in gpt_added_edges:
+        for patient_name, p_missing_vals in missing_dict_arr.items():
+            if patient_name in x[0]:
+                if x[1] in p_missing_vals:
+                    true_positive += 1
+                else:
+                    false_positive += 1
+
+    full_recovered = 0
+    for patient_name, p_missing_vals in missing_dict_arr.items():
+        rec = False
+        for x,y in gpt_added_edges:
+            if patient_name in x and y in p_missing_vals:
+                rec = True
+                full_recovered += 1
+                break
+        if not rec:
             not_recovered += 1
 
     TPR = true_positive / len(gpt_added_edges)
     FPR = false_positive / len(gpt_added_edges)
-    NRR = not_recovered / len(missing_edges)
+    NRR = (len(missing_edges) - true_positive) / len(missing_edges)
 
     print(f"Edges in GPT Correct Rate: {TPR} from true_positive / len(gpt_added_edges) = {true_positive}/{len(gpt_added_edges)}")
-    print(f"Edges Hallucinated by GPT Rate: {FPR} from false_positive / len(gpt_added_edges) = {false_positive}/{len(gpt_added_edges)}")
-    print(f"Edges Not Recovered by GPT Rate: {NRR} from not_recovered / len(missing_edges) = {not_recovered}/{len(missing_edges)}")
+    # print(f"Edges Hallucinated by GPT Rate: {FPR} from false_positive / len(gpt_added_edges) = {false_positive}/{len(gpt_added_edges)}")
+    print(f"Edges Not Recovered by GPT Rate: {NRR} from (len(missing_edges) - true_positive) / len(missing_edges) = ({len(missing_edges)} - {true_positive})/{len(missing_edges)}")
