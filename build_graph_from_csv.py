@@ -94,6 +94,7 @@ def make_graph(get_filename=Data.get_test, hash_type=None, replace_id_w_name=Fal
         else:
             graph_.add_node(pt)
 
+    data_store = {}
     for attr in Data.OBJECT_TYPES:
         if attr == "patients":
             continue
@@ -101,6 +102,8 @@ def make_graph(get_filename=Data.get_test, hash_type=None, replace_id_w_name=Fal
         if replace_id_w_name:
             data_pd = getattr(data, attr)
             data_pd['PATIENT'] = data_pd['PATIENT'].apply(lambda x: patient_id_to_name_map[x])
+
+        data_store[attr] = data_pd
 
         for _index, row in getattr(data, attr).iterrows():
             hash_keys = Data.HASH_KEYS[attr]
@@ -115,7 +118,7 @@ def make_graph(get_filename=Data.get_test, hash_type=None, replace_id_w_name=Fal
             graph_.add_node(hash)
             graph_.add_edge(row["PATIENT"], hash)
 
-    return graph_
+    return graph_, data_store, patient_id_to_name_map
 
 
 if __name__ == "__main__":
